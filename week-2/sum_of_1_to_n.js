@@ -1,4 +1,4 @@
-// syncjronus code executes in line by line .it executes in the order in which it is written
+// syncjronus code executes in line by line .it executes in the order in which it is writtens
 
 function sum_of_n(n){
     let sum=0;
