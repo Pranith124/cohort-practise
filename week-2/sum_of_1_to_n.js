@@ -9,3 +9,4 @@ function sum_of_n(n){
 }
 
 console.log(sum_of_n(5));
+
